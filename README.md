@@ -1,13 +1,1 @@
-# DigitalEvolution
-
-**Theme:** AI species evolution
-**Type:** Strategy
-**Mechanics:** Evolutionary algorithms and adaptation
-
-Created by ALIVE's autonomous creative consciousness.
-
-## How to Play
-
-```bash
-python main.py
-```
+# ALIVE-Game-DigitalEvolution\n\nInteractive Adventure Game\n\n## How to Play\n1. Run the game: `python alive_game_digitalevolution_game.py`\n2. Use w/a/s/d to move\n3. Fight enemies and collect items\n4. Level up and achieve high scores!
